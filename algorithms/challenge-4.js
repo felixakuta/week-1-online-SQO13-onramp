@@ -18,5 +18,5 @@ function calculateGrade(marks) {
 
    
   module.exports =calculateGrade
-    console.log(calculateGrade([34]));
+    console.log(calculateGrade([80, 80, 70]));
     

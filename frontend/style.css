@@ -1,0 +1,59 @@
+main{
+    background-color: #CDF8EA;
+    height: 800px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: baseline, center;
+    gap: 20px;
+    flex-direction: row;
+}
+#may{
+    height: 25%;
+    width: 30%;
+}
+#twitter{
+    height: 10%;
+    width: 20%;
+}
+#love{
+    height: 55%;
+    width: 35%;
+}
+#may{
+    height: 50%;
+    width: 50%;
+}
+#jack{
+    height: 40%;
+    width: 30%;
+}
+.heart{
+    height: 25%;
+    width: 40%;
+}
+.box1{
+    background-color: white;
+    height: 230px;
+    width: 300px;
+    line-height: 1.5;
+    padding: 25px;
+}
+.box2{
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    line-height: 1.5;
+    padding: 25px;
+    }
+    
+.box3{
+    background-color:white;
+    height: 230px;
+    width: 300px;
+    line-height: 1.5;
+    padding: 25px;
+    
+    }
